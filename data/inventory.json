@@ -1,17 +1,44 @@
 [
     {
-        "id": "PROD001",
+        "id": "1",
         "name": "Laptop",
+        "category": "Electronics",
+        "price": 85000,
+        "quantity": 50
+    },
+    {
+        "id": "2",
+        "name": "Wireless Mouse",
+        "category": "Accessories",
+        "price": 2500,
         "quantity": 25
     },
     {
-        "id": "PROD002",
+        "id": "3",
         "name": "Keyboard",
-        "quantity": 10
+        "category": "Accessories",
+        "price": 4500,
+        "quantity": 15
     },
     {
-        "id": "PROD003",
-        "name": "Mouse",
-        "quantity": 0
+        "id": "4",
+        "name": "Monitor",
+        "category": "Electronics",
+        "price": 30000,
+        "quantity": 8
+    },
+    {
+        "id": "5",
+        "name": "Headphones",
+        "category": "Audio",
+        "price": 6500,
+        "quantity": 20
+    },
+    {
+        "id": "6",
+        "name": "USB Cable",
+        "category": "Accessories",
+        "price": 1200,
+        "quantity": 30
     }
 ]
