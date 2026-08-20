@@ -1,0 +1,17 @@
+[
+    {
+        "id": "PROD001",
+        "name": "Laptop",
+        "quantity": 25
+    },
+    {
+        "id": "PROD002",
+        "name": "Keyboard",
+        "quantity": 10
+    },
+    {
+        "id": "PROD003",
+        "name": "Mouse",
+        "quantity": 0
+    }
+]
